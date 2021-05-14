@@ -3,7 +3,10 @@ A ML project where we use different classifier in python to find the most accura
 We extensively used all Jupyter notebooks for this project and we took classifier like Decision Tree, Logistic Regression and Random Forest and K nearest neighbors Classifier
 to see the most accurate one for the dataset in this project and then predicted if the next patient might be at risk with an accuracy of 85.2%
 In this project I did the following tasks
+
 ![](images/pog.gif)
+
+
 - imported the data repository from kaggle
 - imported the specific libraries
 - Analysed the dataset calculated it's mean,min, max, count, Q1,Q2,Q3,Q4 and std using "describe()"
@@ -17,4 +20,7 @@ In this project I did the following tasks
 - Made a working Knn classifier on the data set and used cross validation for improved accuracy using "sklearn" and "KNeighborsClassifier()"
 - Made a random forest classifier and compared it's accuracy with the knn classifier using "sklearn" and "RandomForestClassifier()"
 - Made a desicion tree classifier and a performed logitic regression then checked the accuracy of each and present the results of the model with the highest accuracy which was logistic regression using "dabl"
+
+
+
 ![](images/loco.gif)
